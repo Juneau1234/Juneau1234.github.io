@@ -1,1 +1,17 @@
-
+ body {
+            display: flex;
+            justify-content: ce;
+            allign items: ;
+            text-align: ;
+            background-color: black; 
+            color: darkgoldenrod; }
+        
+        table {
+            background:darkgrey;
+            color: black; }
+        
+        th, td {
+            border: 1px solid black; }
+        
+        .a {
+            color: #ffcc00; }
